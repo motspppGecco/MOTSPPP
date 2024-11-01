@@ -1,6 +1,6 @@
-## Multiobjective Optimization Project
+# Multiobjective Optimization Project
 
-# This repository contains the organization of implementations, instances, and results obtained from various multiobjective optimization algorithms. The repository structure is organized into the following main folders:
+This repository contains the organization of implementations, instances, and results obtained from various multiobjective optimization algorithms. The repository structure is organized into the following main folders:
 
 ## Project Structure
 
